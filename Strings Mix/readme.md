@@ -1,4 +1,4 @@
-# Matrix Determinant
+# Strings Mix
 
 [see in codewars](https://www.codewars.com/kata/5629db57620258aa9d000014)
 
