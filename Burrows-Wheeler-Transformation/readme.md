@@ -52,3 +52,8 @@ Of course we want to restore the original input, therefore you get the following
 
 ### **Goal**
 The goal of this Kata is to write both, the `encode` and `decode` functions. Together they should work as the identity function on lists. (Note: For the empty input, the row number is ignored.)
+
+
+# Reference 
+
+read more about Burrows–Wheeler transform in [wikipedia](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform)
