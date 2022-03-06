@@ -9,3 +9,4 @@ this is a list of some problems I solved in CodeWars platforme :  [visit my acou
 - [Strings Mix](Strings-Mix)  (*js*)
 - [Sum by Factors](Sum-by-Factors)  (*js*)
 - [Sums of Perfect Squares](Sums-of-Perfect-Squares)  (*C++*)
+- [Snail](Snail)  (*C++*)
