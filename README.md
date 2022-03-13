@@ -10,3 +10,4 @@ this is a list of some problems I solved in CodeWars platforme :  [visit my acou
 - [Sum by Factors](Sum-by-Factors)  (*js*)
 - [Sums of Perfect Squares](Sums-of-Perfect-Squares)  (*C++*)
 - [Snail](Snail)  (*C++*)
+- [Multiplying numbers as strings](Multiplying-numbers-as-strings)  (*js*)
